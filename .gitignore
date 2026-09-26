@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+.env
+
+fitbuddy.db
+test_fitbuddy.db
+
+.pytest_cache/
+.coverage
+
+.DS_Store
